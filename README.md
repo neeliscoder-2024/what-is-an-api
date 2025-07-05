@@ -6,11 +6,7 @@ API stands for Application Programming Interface. It is a set of rules and proto
 An API is a software interface that facilitates the exchange of data and functionality between different systems, applications, or components. It acts as a bridge that allows one system to "talk" to another.
 
 3. APIs and Web Services
-APIs are often used in web services, which are services available over the internet. These web APIs allow applications to interact with remote servers or services to perform tasks like:
-
-Retrieving data
-Sending updates
-Authenticating users
+APIs are often used in web services, which are services available over the internet. These web APIs allow applications to interact with remote servers or services to perform tasks like:Retrieving data, Sending updates, Authenticating users.
 
   B. Types of APIs
 1. Online APIs (Web APIs)
