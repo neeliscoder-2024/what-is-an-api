@@ -1,4 +1,4 @@
-A. Application Programming Interface (API)
+  A. Application Programming Interface (API)
 1. What is an API?
 API stands for Application Programming Interface. It is a set of rules and protocols that allows different software applications to communicate with each other. APIs enable developers to access specific features or data of an application, service, or platform without needing to understand its internal codebase.
 
@@ -11,11 +11,9 @@ APIs are often used in web services, which are services available over the inter
 Retrieving data
 Sending updates
 Authenticating users
-B. Types of APIs
+  B. Types of APIs
 1. Online APIs (Web APIs)
 These APIs operate over the internet and are used for web-based communication.
-
-Type	Description
 REST API	Representational State Transfer – uses HTTP methods like GET, POST, PUT, DELETE.
 SOAP API	Simple Object Access Protocol – uses XML for structured messaging.
 2. Offline APIs
